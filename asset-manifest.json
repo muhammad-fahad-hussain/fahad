@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fahad/static/css/main.4c689392.css",
+    "main.js": "/fahad/static/js/main.436f8362.js",
+    "static/media/11.png": "/fahad/static/media/11.34ce6f9edf4ee13a8f1b.png",
+    "static/media/2.jpg": "/fahad/static/media/2.aff9673a5bdd48577e56.jpg",
+    "static/media/1.jpg": "/fahad/static/media/1.9f97ac8281924042425d.jpg",
+    "static/media/5.jpg": "/fahad/static/media/5.694e327e01d4324ae47e.jpg",
+    "static/media/IMG-20240420-WA0080.jpg": "/fahad/static/media/IMG-20240420-WA0080.7bd94ec7b196d617a18c.jpg",
+    "static/media/IMG-20240420-WA0074.jpg": "/fahad/static/media/IMG-20240420-WA0074.734ced7d58dbc3f848b4.jpg",
+    "static/media/fahad2.jpg": "/fahad/static/media/fahad2.bd861910f849f9de8d6f.jpg",
+    "static/media/22.jpg": "/fahad/static/media/22.d36bef888dac8f19009e.jpg",
+    "index.html": "/fahad/index.html",
+    "main.4c689392.css.map": "/fahad/static/css/main.4c689392.css.map",
+    "main.436f8362.js.map": "/fahad/static/js/main.436f8362.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c689392.css",
+    "static/js/main.436f8362.js"
+  ]
+}
